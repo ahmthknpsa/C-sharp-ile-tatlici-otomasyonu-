@@ -1,0 +1,22 @@
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\bin\Debug\Tatlıcı Otomasyonu.exe.config
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\bin\Debug\Tatlıcı Otomasyonu.exe
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\bin\Debug\Tatlıcı Otomasyonu.pdb
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı Otomasyonu.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.Form1.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.Properties.Resources.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı Otomasyonu.exe
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı Otomasyonu.pdb
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.anamenu.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.yardim.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.kategori.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.urunTuru.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.urunEkle.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.kullaniciekle.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.musteriEkle.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.menuekle.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.menusil.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.menuduzenle.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.aramayap.resources
+C:\Users\ahmet\source\repos\Tatlıcı Otomasyonu\Tatlıcı Otomasyonu\obj\Debug\Tatlıcı_Otomasyonu.satısyap.resources
